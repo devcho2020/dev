@@ -53,5 +53,11 @@
 
       color: $color-black-900;
     }
+    &.incative {
+      background-color: $color-white-000;
+      border-radius: 4px;
+
+      color: $color-black-900;
+    }
   }
 }
